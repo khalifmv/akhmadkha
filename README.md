@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, Khalif here 👋
 
+Im currently working as a frontend developer & Student at Binus University
 <!--
 **akhmadkha/akhmadkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
