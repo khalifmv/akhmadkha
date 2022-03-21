@@ -1,6 +1,10 @@
 ### Hi, Khalif here 👋
 
-Im currently working as a frontend developer & Student at Binus University
+Im currently working as a Frontend Developer & Student at Binus University
+
+U can reach me on:
+<a href="mailto:email@akhmadkha.id" target="_blank">Email</a>
+<a href="https://instagram.com/khalifmv" target="_blank">Instagram</a>
 <!--
 **akhmadkha/akhmadkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
