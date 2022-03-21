@@ -1,7 +1,7 @@
 ### Hi There 👋
 
-U can call me Khalif.\
-Im currently working as a Frontend Developer & Student at Binus University. Usually I use react.js to build amazing thing.
+U can call me Khalif / خليف\
+Im currently working as a Frontend Developer & Student at Binus University. Usually I use react.js to build amazing thing... sometimes i use swiftui too, but i still learning about that
 
 So, you can reach me on:\
 <a href="mailto:email@akhmadkha.id" target="_blank">Email</a>\
