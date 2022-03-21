@@ -1,10 +1,12 @@
-### Hi, Khalif here 👋
+### Hi, Tere 👋
 
-Im currently working as a Frontend Developer & Student at Binus University
+U can call me Khalif.\
+Im currently working as a Frontend Developer & Student at Binus University. Usually I use react.js to build amazing thing.
 
-U can reach me on:
-<a href="mailto:email@akhmadkha.id" target="_blank">Email</a>
-<a href="https://instagram.com/khalifmv" target="_blank">Instagram</a>
+U can reach me on:\
+<a href="mailto:email@akhmadkha.id" target="_blank">Email</a>\
+<a href="https://instagram.com/khalifmv" target="_blank">Instagram</a>\
+<a href="https://www.linkedin.com/in/akhmadkha/" target="_blank">LinkedIn</a>
 <!--
 **akhmadkha/akhmadkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
