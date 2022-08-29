@@ -7,8 +7,6 @@ So, you can reach me on:\
 <a href="mailto:email@akhmadkha.id" target="_blank">Email</a>\
 <a href="https://instagram.com/khalifmv" target="_blank">Instagram</a>\
 <a href="https://www.linkedin.com/in/akhmadkha/" target="_blank">LinkedIn</a>\
-<a href="https://www.akhmadkha.id/" target="_blank">Personal Website</a>\
-<a href="https://cv-one-smoky.vercel.app/" target="_blank">New Personal Website [On Development Stage]</a>
 <!--
 **akhmadkha/akhmadkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
