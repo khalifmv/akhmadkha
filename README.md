@@ -6,7 +6,7 @@ Im currently working as a Frontend Developer & Student at Binus University. Usua
 So, you can reach me on:\
 <a href="mailto:email@akhmadkha.id" target="_blank">Email</a>\
 <a href="https://instagram.com/khalifmv" target="_blank">Instagram</a>\
-<a href="https://www.linkedin.com/in/akhmadkha/" target="_blank">LinkedIn</a>\
+<a href="https://www.linkedin.com/in/akhmadkha/" target="_blank">LinkedIn</a>
 <!--
 **akhmadkha/akhmadkha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
